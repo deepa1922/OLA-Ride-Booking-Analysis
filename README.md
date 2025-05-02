@@ -4,7 +4,6 @@
 This project focuses on analyzing Ola ride booking data to derive actionable insights that improve operational efficiency. The analysis highlights key factors influencing booking success, cancellations, revenue generation, and customer satisfaction.
 
 ## Tools & Technologies
-## Tools & Technologies
 - **SQL**: Used to address ad-hoc queries and extract key operational insights from booking data.
 - **Power BI**: Used to create interactive visualizations, segmented into 5 areas:
   - Overall Analysis
